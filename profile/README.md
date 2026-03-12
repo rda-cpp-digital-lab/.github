@@ -74,11 +74,23 @@ Repository는 다음 목적에 따라 생성됩니다.
 ## Directory Structure
 프로젝트 구조 설명
 
-## Requirements
-필요한 라이브러리
+  예시)
+  project-name
+  ├─ src
+  ├─ configs
+  ├─ scripts
+  ├─ notebooks
+  ├─ experiments
+  └─ docs
 
-## License
-라이선스 정보
+## Requirements
+필요한 라이브러리 및 환경
+
+예시)
+Python >= 3.10
+numpy
+pandas
+torch
 ```
 
 ---
